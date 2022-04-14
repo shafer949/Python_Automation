@@ -16,6 +16,8 @@ You will need to install Python from [here](https://www.python.org/downloads/). 
   - (Windows) py -m pip install lxml 
 - beautifulsoup4 - Used to create a navigable and readable HTML response
   - (Windows) py -m pip install beautifulsoup4
+- load_dotenv - Used to retrieve keys from .env file
+  - (Windows) py -m pip install python-dotenv
 
 #### Install Selenium items:
 - Selenium example use the Chrome Driver installed from [here](https://chromedriver.chromium.org/downloads)

@@ -1,6 +1,25 @@
-# Python_Automation
+# Python Automation 101
+If you have tasks that are repetative or time consuming then stick around as this repo contains various examples on how to get started using Python for automation. 
 
-1. Install Python from here - https://www.python.org/downloads/
+## Setup
+You will need to install Python from [here](https://www.python.org/downloads/). Be sure to pick the installation option that suits your operating system. 
+>Note: Windows and gitbash was used when creating this content.
+
+## Topics Covered
+1. Introduction with printing "Hello World"
+-- Check out script.py
+2. Introduction on how to make API requests and read the response.
+-- Check out apiCall.py and apiCallWithApiKey.py
+4. Automating the process of reading a file and sorting the data into additional output files. 
+-- Check out fileIO.py
+5. Automating the process of organizing files within a given directory into additional directories based by filetype.
+-- Check out organize.py
+6. Web scrapping, single and multiple, websites for information.
+-- Check out scrape.py and scrapePages.py
+7. Automating web browser interactions with Selenium.
+-- Check out webBrowsing.py, interactions.py, and dragAndDrop.py
+
+## Getting Started
 
 Sort Grades by Pass or Fail
 1. Navigate to the Source Code directory, cd "Source Code", and run py fileIO.py in the terminal.

@@ -46,4 +46,5 @@ for i in urls:
         print('%s) Price: %s , Item Name: %s' % (count, itemPrice, itemName))
         count = count + 1
 
+#cd into the src directory then
 #Run py scrapePages.py in the terminal (Windows)

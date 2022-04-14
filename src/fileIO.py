@@ -28,4 +28,6 @@ for line in f:
 passFile.close()
 failFile.close()
 
+#cd into the src directory then
 #Run py fileIO.py in the terminal (Windows)
+#Notice two files are created: PassFile.txt and FailFile.txt within the src directory

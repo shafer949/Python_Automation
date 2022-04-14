@@ -50,4 +50,5 @@ print('Activity 2:', activity2)
 print('Type 2:', type2)
 print('Participant Count 2:', participantCount2)
 
+#cd into the src directory then
 #Run py apiCall.py in the terminal (Windows)

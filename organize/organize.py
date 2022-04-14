@@ -35,5 +35,6 @@ def organizeDirectory():
 
 organizeDirectory()
 
+#cd into the organize directory then
 #Run py organize.py in the terminal (Windows)
-#Notice the file structure changed under the organize directory
+#Notice the list of files have been moved to directories based on their filetype.

@@ -21,4 +21,5 @@ for i in range(0,len(quotes)):
     for quoteTag in quoteTags:
         print(quoteTag.text)
 
+#cd into the src directory then
 #Run py scrape.py in the terminal (Windows)

@@ -11,4 +11,5 @@ destination = driver.find_element_by_xpath('//*[@id="box103"]')
 actions = ActionChains(driver)
 actions.drag_and_drop(source, destination).perform()
 
+#cd into the src directory then
 #Run py dragAndDrop.py in the terminal (Windows)

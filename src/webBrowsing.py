@@ -17,4 +17,5 @@ additionField2.send_keys('12')
 getTotalButton = driver.find_element_by_xpath('//*[@id="gettotal"]/button')
 getTotalButton.click()
 
+#cd into the src directory then
 #Run py webBrowsing.py in the terminal (Windows)

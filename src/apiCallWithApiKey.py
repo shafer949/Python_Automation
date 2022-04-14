@@ -24,4 +24,5 @@ info = json.loads(content)
 print(type(info))
 print(info)
 
+#cd into the src directory then
 #Run py apiKey.py in the terminal (Windows)
